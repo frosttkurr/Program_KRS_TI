@@ -1,0 +1,30 @@
+        
+	[] MATA KULIAH WAJIB []
+
+        1. Analisis dan Desain Sistem		(3)		16. Managemen Support System		(3)
+        2. Isu dan Prinsip Proteksi TI		(2)		17. Statistik dan Riset Teknologi
+        3. Pemprograman Mobile			(3)		    Informasi				(2)
+        4. Dasar Sistem Cerdas			(3)		18. Grid and Cloud Computing		(3)
+        5. Praktikum Pemprorograman Internet	(1)		19. Kerja Praktek			(2)
+        6. Integrasi dan Migrasi Sistem		(3)		20. Topik Khusus TI			(3)
+        7. IT Service Manajemen			(3)		21. Data Mining				(3)
+        8. Praktikum Integrasi Sistem		(1)		22. Audit TI				(3)
+        9. IT Forensic				(3)		23. Praktikum Data Warehouse		(1)
+       	10. Seminar TI				(1)		24. Etika Profesi dan Pendidikan
+        11. Praktikum Pemprograman Mobile	(1)		    Anti Korupsi                  	(2)
+        12. Internet Of Things			(3)		25. Pancasila				(2)
+        13. Data Warehouse			(3)		26. Projek Pra Tugas Akhir		(3)
+        14. Penginderaan Jauh			(3)		27. Pra Pendadaran			(1)
+        15. Pemprograman Mobile Lanjut		(3)		28. KKN					(3)
+								29. Penulisan Ilmiah			(1)
+								30. Tugas Akhir				(4)
+  	
+	[] MATA KULIAH TAMBAHAN []
+
+  	31. Multi Channel Access		(3)
+        32. Enterprise Resource Planning	(3)
+        33. Korporasi Maya			(3)
+        34. Manajemen Sains			(3)
+        35. Sistem Informasi Geografis Web
+	    dan Mobile				(3)
+        36. Sertifikasi				(3)

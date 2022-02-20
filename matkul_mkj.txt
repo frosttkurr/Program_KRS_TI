@@ -1,0 +1,31 @@
+        
+	[] MATA KULIAH WAJIB []
+
+        1. Analisis dan Desain Sistem		(3)		16. Jaringan Nirkabel			(3)
+        2. Isu dan Prinsip Proteksi TI		(2)		17. Statistik dan Riset TI		(2)
+        3. Pemprograman Mobile			(3)		18. Grid and Cloud Computing		(3)
+        4. Dasar Sistem Cerdas			(3)		19. Kerja Praktek                       (2)
+        5. Praktikum Pemprograman Internet	(1)		20. Topik Khusus TI			(3)
+        6. Manajemen Jaringan dan Server	(3)		21. Manajemen Resiko Keamanan dan
+        7. Network Operating System		(3)		    Penanganan Bencana			(3)
+        8. Prak. Manaj. Jaringan dan Server   	(1)		22. Network Centric Principles		(3)
+        9. IT Forensic				(3)		23. Praktikum Jaringan Nirkabel		(1)
+        10. Seminar TI				(1)		24. Etika Profesi dan Pendidikan
+        11. Praktikum Pemprograman Mobile	(1)		    Anti Korupsi			(2)
+        12. Multi Channel Access		(3)		25. Pancasila				(2)
+        13. Pemprograman Jaringan (Socket)	(3)		26. Project Tugas Pra Akhir		(3)
+        14. Internet of Things			(3)		27. Pra Pendadaran			(1)
+        15. Manajemen dan Implementasi 				28. KKN					(3)
+	    Proteksi TI				(3)		29. Penulisan Ilmiah			(1)
+								30. Tugas Akhir				(4)
+
+  	[] MATA KULIAH TAMBAHAN []
+
+  	31. System Administration               (3)
+  	32. Audit TI            		(3)
+  	33. Teknologi Big Data              	(3)
+  	34. Wireless Sensor Network             (3)
+  	35. IT Forensic lanjut                	(3)
+  	36. Perancangan Keamanan Aplikasi
+	    dan Jaringan         		(3)
+  	37. Sertifikasi		           	(3)

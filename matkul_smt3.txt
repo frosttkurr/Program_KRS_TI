@@ -1,0 +1,20 @@
+        
+	[] MATA KULIAH WAJIB []
+
+      	1. Interpersonal dan Life Skill (3)        6. Pemprograman Internet             (3)
+      	2. Imaging System               (2)        7. Technopreneurship                 (2)
+  	3. Interaksi Manusia Komputer   (3)        8. Praktikum Teknologi Basis Data    (1)
+  	4. Rekayasa Perangkat Lunak     (3)        9. Praktikum Jaringan Komputer       (1)
+  	5. Pengantar Manajemen Bisnis   (2)
+
+  	[] MATA KULIAH TAMBAHAN []
+
+  	10. Agama                       (2)        19. Kewarganegaraan                  (2)
+  	11. Bahasa Indonesia            (2)        20. Arsitektur STI                   (2)
+  	12. Bahasa Inggris              (3)        21. Jaringan Komputer dan Komunikasi (3)
+  	13. Algoritma                   (2)        22. Teknologi Basis Data             (3)
+  	14. Pemprograman                (3)        23. Pemprograman Berorientasi Obyek  (3)
+  	15. Pengantar Sistem TI         (3)        24. Sistem Informasi Manajemen       (3)
+  	16. Konsep Basis Data           (3)        25. Praktikum Basis Data             (1)
+  	17. Aplikasi Sosial Media       (3)        26. Praktikum Algoritma Pemprograman (1)
+  	18. Manajemen Stress            (2)
